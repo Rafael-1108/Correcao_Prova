@@ -11,3 +11,5 @@ switch (opcao) {
         console.log("Você escolheu ");
         break;
 }
+
+//1 ponto

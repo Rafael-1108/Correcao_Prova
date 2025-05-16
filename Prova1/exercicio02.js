@@ -6,4 +6,4 @@ if (nota < 5){
     console.log("Recuperação.")
 } else (console.log("Aprovado."))
 
-//0.5 pontos
+//0.5 ponto

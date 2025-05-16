@@ -5,4 +5,4 @@ let idade = anoAtual - anoNascimento;
 
 console.log(idade);
 
-//0.5 pontos
+//0.5 ponto
