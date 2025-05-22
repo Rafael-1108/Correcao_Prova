@@ -13,3 +13,5 @@ console.log("Exercício 10");
 if (hp > 0) {
     console.log(`O castelo resistiu com ${hp} hp de vida.`);
 }
+
+//2 pontos
