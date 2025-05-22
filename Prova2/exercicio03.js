@@ -1,17 +1,19 @@
-let opçao = 2;
+let aplicativosEscolhido = 1;
 
-switch(opçao) {
+console.log("Exercicio 03")
+switch(aplicativosEscolhido){
     case 1:
-        console.log("Você escolheu cadastrar produtos");
+        console.log("Abrindo instagam");
         break;
     case 2:
-        console.log("Você escolheu listar produtos");
+        console.log("Abrindo TikTok");
         break;
     case 3:
-        console.log("Você escolheu sair");
+        console.log("Abrindo Youtube");
         break;
     default:
-        console.log("opção Invalida!");
+        console.log("Aplicativo não encontrado");
 }
+console.log("----------------------------------");
 
 // 1 ponto
