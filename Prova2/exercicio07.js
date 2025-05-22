@@ -1,6 +1,6 @@
 let pedido = 3;
 let nomeCombo = "";
-let preco = 0
+let preco = 0;
 
 switch(pedido){
     case 1:
@@ -18,8 +18,8 @@ switch(pedido){
     default:
         console.log("Opção invalida");
 }
-if(nomeCombo != ""){
-    console.log("combo escolhido", nomeCombo );
+if (nomeCombo != "") {
+    console.log("combo escolhido:", nomeCombo );
     console.log("Preço: R$", preco);
 }
 
