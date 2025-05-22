@@ -11,4 +11,4 @@ while (i < valores.length) {
 
 console.log(maior);
 
-//1 ponto
+//1 ponto.
