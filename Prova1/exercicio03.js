@@ -11,7 +11,7 @@ switch (opcao) {
         console.log("Você escolheu sair");
         break;
     default:
-        console.log("Opção inválida")
+        console.log("Opção inválida");
 }
 
 //1 ponto
