@@ -1,14 +1,17 @@
-let caixas = [3, 7, 5, 2, 8];
-let totalAnimais = 0;
+let shows = [2, 0, 3, 1 , 4 ];
+let totalShows = 0;
 
-for (let i = 0;i < caixas.length; i++) {
-    totalAnimais = totalAnimais + caixas[i];
+console.log("Exercicio 06");
+for(let i = 0; i < shows.length; i++){
+    totalShows += shows[i];
 }
-    console.log("Total de animais:", totalAnimais)
-if (totalAnimais > 20) {
-    console.log("Estoque cheio");
-} else {
-    console.log("Ainda cabe mais");
+
+console.log("Total de shows assistidos é de:", totalShows);
+if(totalShows > 8){
+    console.log("Voce é super fã");
+}else{
+    console.log("Aproveite mais os shows");
 }
+console.log("-----------------------------------------------");
 
 //1 ponto
