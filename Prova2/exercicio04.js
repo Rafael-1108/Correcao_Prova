@@ -1,11 +1,12 @@
-let numeros = [5, 2, 3, 2, 4];
-let soma = 0;
+let novosAmigos = [3, 5, 1, 0, 2];
+let totalAmigos = 0;
 
-for (let i = 0; i < numeros.length; i++) {
-   console.log('soma:', soma);
-   console.log('numero:', numeros[i]);
-    soma = soma + numeros[i];
+console.log("Exercicio 04");
+
+for(let i = 0;i < novosAmigos.length; i++){
+    totalAmigos = totalAmigos + novosAmigos[i];
 }
-console.log(soma);
+console.log("Total de novos amigos: ", totalAmigos);
+console.log("---------------------------------------");
 
 // 1 ponto
