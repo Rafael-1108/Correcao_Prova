@@ -13,4 +13,6 @@ for (let i = 1; i < gols.length; i++) {
 
 console.log("Exercício 9");
 console.log("O artilheiro foi " + jogadores[artilheiro] + " com " + maisGols + " gols.");
-console.log("-------------------------");
+console.log("------------------------------------");
+
+//1 ponto
